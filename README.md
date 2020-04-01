@@ -1,0 +1,2 @@
+# RainbowCoin
+Digitizing the world
